@@ -54,4 +54,5 @@ This repository is intended to:
 
 ## Author
 **Yoav Dror**  
-Design Verification Engineer
+Design Verification Engineer  
+B.Sc Electrical Engineering  
